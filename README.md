@@ -34,9 +34,7 @@ AIFFEL_quest_rs
 │   │   └── README.md
 │   ├── Ex08
 │   │   └── README.md
-│   └── Ex09
-│       └── README.md
-└── DeepDivel
+└── DeepDive!
     ├── Deep01
     │   └── README.md
     ├── Deep02
@@ -53,6 +51,4 @@ AIFFEL_quest_rs
     │   └── README.md
     ├── Deep08
     │   └── README.md
-    └── Deep09
-        └── README.md
 ```
