@@ -51,6 +51,6 @@ AIFFEL_quest_rs
     │   └── README.md
     ├── Deep08
     │   └── README.md
-    ├── Deep09
+    └── Deep09
         └── README.md
 ```
