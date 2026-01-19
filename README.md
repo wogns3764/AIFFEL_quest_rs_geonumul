@@ -34,7 +34,7 @@ AIFFEL_quest_rs
 │   │   └── README.md
 │   ├── Ex08
 │   │   └── README.md
-└── DeepDive!
+└── GoingDeeper
     ├── Deep01
     │   └── README.md
     ├── Deep02
